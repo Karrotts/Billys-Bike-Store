@@ -12,6 +12,9 @@ dotnet sln BillysBikeStoreSln add BillysBikeStoreSln/BikeProducts.Tests
 dotnet add BillysBikeStoreSln/BikeProducts.Tests reference BillysBikeStoreSln/BikeProducts
 ```
 
+### Progress Check 1 (Page 128)
+![progress check]()
+
 ## Entity Framework
 * What is Entity Framework?
 * What is a Connection String?
