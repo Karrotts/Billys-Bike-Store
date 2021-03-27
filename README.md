@@ -22,3 +22,6 @@ dotnet add BillysBikeStoreSln/BikeProducts.Tests reference BillysBikeStoreSln/Bi
 * What is a Model Repository?
 * Migration vs Scaffolding?
 * Seeding the database
+
+## Displaying the Products
+![progress check](imgs/storefront.JPG)
