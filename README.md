@@ -13,7 +13,7 @@ dotnet add BillysBikeStoreSln/BikeProducts.Tests reference BillysBikeStoreSln/Bi
 ```
 
 ### Progress Check 1 (Page 128)
-![progress check]()
+![progress check](bikebasestore.JPG)
 
 ## Entity Framework
 * What is Entity Framework?
