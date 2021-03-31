@@ -1,5 +1,5 @@
 # Billys-Bike-Store
-Billy's famous bike store modelled off the "Sports Store" application from the book "Pro ASP.NET Core 3" by Adam Freeman
+Billy's world famous bike store modelled off the "Sports Store" application from the book "Pro ASP.NET Core 3" by Adam Freeman
 
 ## Creating the Solution
 ```
