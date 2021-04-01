@@ -33,6 +33,8 @@ namespace BikeProducts
             });
             services.AddScoped<IStoreRepository, EFStoreRepository>();
             services.AddRazorPages();
+            services.AddDistributedMemoryCache();
+            services.AddSession();
         }
 
         private IConfiguration Configuration { get; set; }
@@ -43,6 +45,7 @@ namespace BikeProducts
             app.UseDeveloperExceptionPage();
             app.UseStatusCodePages();
             app.UseStaticFiles();
+            app.UseSession();
             app.UseRouting();
 
             app.UseEndpoints(endpoints =>
