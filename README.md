@@ -33,11 +33,11 @@ dotnet add BillysBikeStoreSln/BikeProducts.Tests reference BillysBikeStoreSln/Bi
 ![progress check](imgs/storefront.JPG)
 
 ### Figure 8-5
-![Figure 8-5](imgs/8-5.JPG)
+![Figure 8-5](imgs/8-5.PNG)
 
 ### Figure 8-10
-![Figure 8-10](imgs/8-10.JPG)
+![Figure 8-10](imgs/8-10.PNG)
 
 ### Figure 8-11
-![Figure 8-11](imgs/8-11.JPG)
+![Figure 8-11](imgs/8-11.PNG)
 
