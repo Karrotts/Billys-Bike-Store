@@ -35,6 +35,8 @@ namespace BikeProducts
             services.AddRazorPages();
             services.AddDistributedMemoryCache();
             services.AddSession();
+            services.AddScoped<Cart>(sp => SessionCart.GetCart(sp));
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
         }
 
         private IConfiguration Configuration { get; set; }
